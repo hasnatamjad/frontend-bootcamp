@@ -1,0 +1,101 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+@media (min-width: 48em) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.box-background {
+  background-color: #fff;
+}
+
+.box-color {
+  background-color: #f3603c;
+}
+
+.card-color {
+  background-color: #242d52;
+}
+
+.card2-color {
+  background-color: #eee;
+}
+
+.inst-card {
+  background-color: #fff0ec;
+}
+
+.logo-color {
+  color: #242d52;
+  font-weight: 700;
+  font-size: 26px;
+}
+
+.nav-text-color li a {
+  color: #121729;
+  font-weight: 500;
+}
+
+.btn-color,
+.btn-color:hover,
+.btn-color:active {
+  background-color: #f3603c;
+  color: #fff;
+}
+
+.btn1-color,
+.btn1-color:hover,
+.btn1-color:active,
+.btn1-color:link {
+  background-color: #242d52;
+  color: #fff;
+}
+
+.btn2-color,
+.btn2-color:hover,
+.btn2-color:active,
+.btn2-color:link {
+  background-color: #fff;
+  color: #f3603c;
+}
+
+.btn-text {
+  color: #fff;
+}
+
+.btn1-text {
+  color: #242d52;
+}
+
+.text1 {
+  color: #000;
+}
+
+.show-text {
+  color: #f3603c;
+}
+
+.lead-text {
+  color: #343a40;
+  font-weight: 400;
+}
+
+.text-copyright {
+  font-size: 16px;
+}
+
+.h1-showcase {
+  font-size: 2.25rem;
+  letter-spacing: -0.3px;
+}
