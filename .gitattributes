@@ -1,0 +1,7 @@
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.jsx linguist-language=JavaScript
+*.tsx linguist-language=JavaScript
+*.html linguist-language=JavaScript
+dist/* linguist-vendored
+build/* linguist-vendored
